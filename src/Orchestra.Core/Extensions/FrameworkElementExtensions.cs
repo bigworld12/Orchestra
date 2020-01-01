@@ -8,9 +8,9 @@
 namespace Orchestra
 {
     using System.Windows;
-    using System.Windows.Interactivity;
     using Catel;
     using Catel.IoC;
+    using Microsoft.Xaml.Behaviors;
 
     public static class FrameworkElementExtensions
     {
