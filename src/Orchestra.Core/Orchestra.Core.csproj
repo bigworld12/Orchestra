@@ -5,7 +5,7 @@
     <RootNamespace>Orchestra</RootNamespace>
     <DefaultLanguage>en-US</DefaultLanguage>
     <PackageId>Orchestra.Core</PackageId>
-    <PackageVersion>5.4.0-develop-wild0293</PackageVersion>
+    <PackageVersion>5.4.0-alpha0295</PackageVersion>
     <Description>Orchestra core library.</Description>
     <PackageTags>orc;orchestra;wpf;xaml</PackageTags>
   </PropertyGroup>

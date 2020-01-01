@@ -5,7 +5,7 @@
     <RootNamespace>Orchestra</RootNamespace>
     <DefaultLanguage>en-US</DefaultLanguage>
     <PackageId>Orchestra.Shell.MahApps</PackageId>
-    <PackageVersion>5.4.0-develop-wild0293</PackageVersion>
+    <PackageVersion>5.4.0-alpha0295</PackageVersion>
     <Description>Orchestra shell using MahApps.Metro library.</Description>
     <PackageTags>orc;orchestra;wpf;xaml;shell;mahapps;metro</PackageTags>
   </PropertyGroup>
