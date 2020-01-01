@@ -1,11 +1,11 @@
-<Project Sdk="MSBuild.Sdk.Extras">
+﻿<Project Sdk="MSBuild.Sdk.Extras">
   <PropertyGroup>
     <TargetFrameworks>net46;net47;netcoreapp3.0</TargetFrameworks>
     <AssemblyName>Orchestra.Core</AssemblyName>
     <RootNamespace>Orchestra</RootNamespace>
     <DefaultLanguage>en-US</DefaultLanguage>
     <PackageId>Orchestra.Core</PackageId>
-    <PackageVersion>5.4.0-alpha0295</PackageVersion>
+    <PackageVersion>5.4.0-alpha0296</PackageVersion>
     <Description>Orchestra core library.</Description>
     <PackageTags>orc;orchestra;wpf;xaml</PackageTags>
   </PropertyGroup>
@@ -22,7 +22,7 @@
   <ItemGroup>
     <PackageReference Include="Catel.Analyzers" Version="1.0.0" PrivateAssets="all" />
     <PackageReference Include="Catel.Fody" Version="4.4.0-alpha0078" PrivateAssets="all" />
-    <PackageReference Include="Catel.MVVM" Version="6.0.0-develop-local0103" />
+    <PackageReference Include="Catel.MVVM" Version="6.0.0-develop-local0106" />
     <PackageReference Include="Fody" Version="6.0.5" PrivateAssets="all">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
     </PackageReference>

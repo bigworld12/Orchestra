@@ -5,7 +5,7 @@
     <RootNamespace>Orchestra</RootNamespace>
     <DefaultLanguage>en-US</DefaultLanguage>
     <PackageId>Orchestra.Shell.TaskRunner</PackageId>
-    <PackageVersion>5.4.0-alpha0295</PackageVersion>
+    <PackageVersion>5.4.0-alpha0296</PackageVersion>
     <Description>Orchestra task runner shell library.</Description>
     <PackageTags>orc;orchestra;wpf;xaml;shell;task;runner</PackageTags>
   </PropertyGroup>
@@ -22,7 +22,7 @@
   <ItemGroup>
     <PackageReference Include="Catel.Analyzers" Version="1.0.0" PrivateAssets="all" />
     <PackageReference Include="Catel.Fody" Version="4.4.0-alpha0078" PrivateAssets="all" />
-    <PackageReference Include="Catel.MVVM" Version="6.0.0-develop-local0103" />
+    <PackageReference Include="Catel.MVVM" Version="6.0.0-develop-local0106" />
     <PackageReference Include="Fody" Version="6.0.5" PrivateAssets="all">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
     </PackageReference>

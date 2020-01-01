@@ -5,7 +5,7 @@
     <RootNamespace>Orchestra</RootNamespace>
     <DefaultLanguage>en-US</DefaultLanguage>
     <PackageId>Orchestra.Shell.Ribbon.Fluent</PackageId>
-    <PackageVersion>5.4.0-alpha0295</PackageVersion>
+    <PackageVersion>5.4.0-alpha0296</PackageVersion>
     <Description>Orchestra shell using Fluent ribbon library.</Description>
     <PackageTags>orc;orchestra;wpf;xaml;shell;ribbon;fluent</PackageTags>
   </PropertyGroup>
@@ -22,7 +22,7 @@
   <ItemGroup>
     <PackageReference Include="Catel.Analyzers" Version="1.0.0" PrivateAssets="all" />
     <PackageReference Include="Catel.Fody" Version="4.4.0-alpha0078" PrivateAssets="all" />
-    <PackageReference Include="Catel.MVVM" Version="6.0.0-develop-local0103" />
+    <PackageReference Include="Catel.MVVM" Version="6.0.0-develop-local0106" />
     <PackageReference Include="ControlzEx" Version="4.2.0" />
     <PackageReference Include="Costura.Fody" Version="4.1.0" PrivateAssets="all" />
     <PackageReference Include="Fluent.Ribbon" Version="7.0.1" />
