@@ -5,7 +5,7 @@
     <RootNamespace>Orchestra</RootNamespace>
     <DefaultLanguage>en-US</DefaultLanguage>
     <PackageId>Orchestra.Shell.Ribbon.Fluent</PackageId>
-    <PackageVersion>5.4.0-alpha0296</PackageVersion>
+    <PackageVersion>5.4.0-alpha0297</PackageVersion>
     <Description>Orchestra shell using Fluent ribbon library.</Description>
     <PackageTags>orc;orchestra;wpf;xaml;shell;ribbon;fluent</PackageTags>
   </PropertyGroup>
